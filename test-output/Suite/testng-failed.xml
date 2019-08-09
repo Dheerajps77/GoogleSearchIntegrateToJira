@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="Google.Go.SearchPage">
+        <methods>
+          <include name="googleSearch"/>
+          <include name="verifyGoogleSearchTextBox"/>
+          <include name="verifyGitLabURL"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- Google.Go.SearchPage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

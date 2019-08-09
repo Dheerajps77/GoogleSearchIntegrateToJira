@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16657" started-at="2019-08-09T09:57:39Z" finished-at="2019-08-09T09:57:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16657" started-at="2019-08-09T09:57:39Z" finished-at="2019-08-09T09:57:56Z">
+      <class name="Google.Go.SearchPage">
+        <test-method status="PASS" signature="googleSearch()[pri:0, instance:Google.Go.SearchPage@7d9d1a19]" name="googleSearch" duration-ms="3772" started-at="2019-08-09T15:27:39Z" finished-at="2019-08-09T15:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearch -->
+        <test-method status="PASS" signature="verifyGoogleSearchTextBox()[pri:0, instance:Google.Go.SearchPage@7d9d1a19]" name="verifyGoogleSearchTextBox" duration-ms="3720" started-at="2019-08-09T15:27:43Z" finished-at="2019-08-09T15:27:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGoogleSearchTextBox -->
+        <test-method status="PASS" signature="verifyGitLabURL()[pri:0, instance:Google.Go.SearchPage@7d9d1a19]" name="verifyGitLabURL" duration-ms="4838" started-at="2019-08-09T15:27:47Z" finished-at="2019-08-09T15:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGitLabURL -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Google.Go.SearchPage@7d9d1a19]" name="closeBrowser" is-config="true" duration-ms="4311" started-at="2019-08-09T15:27:52Z" finished-at="2019-08-09T15:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Google.Go.SearchPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
