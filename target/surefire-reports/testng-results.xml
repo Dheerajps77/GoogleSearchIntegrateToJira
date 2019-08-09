@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="18022" started-at="2019-08-09T10:08:38Z" finished-at="2019-08-09T10:08:56Z">
+  <suite name="Suite" duration-ms="16854" started-at="2019-08-09T12:41:30Z" finished-at="2019-08-09T12:41:47Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="18022" started-at="2019-08-09T10:08:38Z" finished-at="2019-08-09T10:08:56Z">
+    <test name="Test" duration-ms="16854" started-at="2019-08-09T12:41:30Z" finished-at="2019-08-09T12:41:47Z">
       <class name="Google.Go.SearchPage">
-        <test-method status="PASS" signature="googleSearch()[pri:0, instance:Google.Go.SearchPage@b97c004]" name="googleSearch" duration-ms="4060" started-at="2019-08-09T15:38:38Z" finished-at="2019-08-09T15:38:43Z">
+        <test-method status="PASS" signature="googleSearch()[pri:0, instance:Google.Go.SearchPage@b97c004]" name="googleSearch" duration-ms="3869" started-at="2019-08-09T18:11:30Z" finished-at="2019-08-09T18:11:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- googleSearch -->
-        <test-method status="PASS" signature="verifyGoogleSearchTextBox()[pri:0, instance:Google.Go.SearchPage@b97c004]" name="verifyGoogleSearchTextBox" duration-ms="4259" started-at="2019-08-09T15:38:43Z" finished-at="2019-08-09T15:38:47Z">
+        <test-method status="PASS" signature="verifyGoogleSearchTextBox()[pri:0, instance:Google.Go.SearchPage@b97c004]" name="verifyGoogleSearchTextBox" duration-ms="4053" started-at="2019-08-09T18:11:34Z" finished-at="2019-08-09T18:11:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyGoogleSearchTextBox -->
-        <test-method status="PASS" signature="verifyGitLabURL()[pri:0, instance:Google.Go.SearchPage@b97c004]" name="verifyGitLabURL" duration-ms="5382" started-at="2019-08-09T15:38:47Z" finished-at="2019-08-09T15:38:52Z">
+        <test-method status="PASS" signature="verifyGitLabURL()[pri:0, instance:Google.Go.SearchPage@b97c004]" name="verifyGitLabURL" duration-ms="4529" started-at="2019-08-09T18:11:38Z" finished-at="2019-08-09T18:11:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyGitLabURL -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Google.Go.SearchPage@b97c004]" name="closeBrowser" is-config="true" duration-ms="4311" started-at="2019-08-09T15:38:52Z" finished-at="2019-08-09T15:38:56Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Google.Go.SearchPage@b97c004]" name="closeBrowser" is-config="true" duration-ms="4394" started-at="2019-08-09T18:11:43Z" finished-at="2019-08-09T18:11:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
