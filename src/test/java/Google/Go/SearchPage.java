@@ -55,6 +55,7 @@ public class SearchPage {
 				flag=true;
 			}
 			Assert.assertTrue(flag, "Unable to open github url");
+			System.out.println("verifyGitLabURL->>This test has been completed");
 		} catch (Exception e) {
 			throw e;
 		}
@@ -76,6 +77,7 @@ public class SearchPage {
 				flag=true;
 			}
 			Assert.assertTrue(flag, "Unable to searched the results");
+			System.out.println("verifyGoogleSearchTextBox->>This test has been completed");
 		} catch (Exception e) {
 			throw e;
 		}
